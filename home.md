@@ -1,6 +1,6 @@
 # Technologies
 
-1. [technologies]
+1. [technologies](technologies)
 # Links
 
 # Videos
