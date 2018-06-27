@@ -12,7 +12,7 @@
 ```
 
 
-> Wow ! this is simple and as easy {.danger}
+> Wow ! this is simple and as easy {.is-danger}
 # Technologies
 
 1. [technologies](technologies)
