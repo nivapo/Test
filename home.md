@@ -1,4 +1,4 @@
-![Ai Brain](/uploads/ai-brain.jpg  ) 
+![Ai Brain](/uploads/ai-brain.jpg  =250x250) 
 
 ```xml
 <html>
