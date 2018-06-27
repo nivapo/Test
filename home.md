@@ -1,4 +1,4 @@
-![Ai Brain](/uploads/ai-brain.jpg ){:height="36px" width="36px"}
+![Ai Brain](/uploads/ai-brain.jpg ){:height="250px" width="250px"}
 
 ```xml
 <html>
