@@ -1,3 +1,5 @@
+![Ai Brain](/uploads/ai-brain.jpg "Ai Brain")
+
 ```xml
 <html>
   <head></head>
