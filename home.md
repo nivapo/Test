@@ -9,8 +9,7 @@
 {
   "Sample":"Test"
 }
-```
-{:padding="100px"}
+``` {:padding="100px"}
 
 
 > Wow ! this is simple and as easy {.is-danger}
