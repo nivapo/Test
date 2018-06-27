@@ -1,11 +1,5 @@
+# Technologies
 
-```json
-{
-  "Sample":"Test"
-}
-```
+# Links
 
-
-This is a test for rule
------
-
+# Videos
